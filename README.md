@@ -26,7 +26,7 @@ architecture while documenting the full hardware development process.
 
 *) you can choose one of these versions
 
-**) Some software was written fot MSX 1 and V9990
+**) Some software was written for MSX 1 and V9990
 
 ## Software
 Includes utilities
