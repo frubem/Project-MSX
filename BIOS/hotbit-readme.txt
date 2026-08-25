@@ -1,5 +1,7 @@
 - Tecla F6 voltou à ser COLOR15,4,4 (a v1.3 tinha trocado isso)
 
+- Modificada para usar MAPPER
+
 - Corrigido o bug da velocidade do PLAY
 
 - Corrigido o mapa de teclado: GRAPH+[ agora produz corretamente o caracter til (~) como informado na pg-13 do manual do usuário.
