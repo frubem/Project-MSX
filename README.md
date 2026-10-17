@@ -6,7 +6,7 @@ layout, and design principles.
 
 The project is organized into multiple hardware-specific
 sub-repositories. Each one contains schematics, PCB layouts,
-documentation, and photos related to a specific module of the system.
+documecdntation, and photos related to a specific module of the system.
 
 The goal is to faithfully reproduce a MSX Clone
 architecture while documenting the full hardware development process.
