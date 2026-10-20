@@ -11,8 +11,8 @@ documentation, and photos related to a specific module of the system.
 The goal is to faithfully reproduce a MSX Clone
 architecture while documenting the full hardware development process.
 
-1) JFF an MSX 1 Clone ver 1: https://github.com/frubem/JFF *
-2) JFF-TMSHAT an MSX 1 Clone ver 1: https://github.com/frubem/JFF-TMSHAT *
+1) JFF an MSX 1 Clone: https://github.com/frubem/JFF *
+2) JFF-TMSHAT an MSX 1 Clone: https://github.com/frubem/JFF-TMSHAT *
 3) Professional Digital Cassette Recorder for 8-bit Machines: https://github.com/frubem/powadcr
 4) Floppy Disk Interface for JFF MSX 1 - ver 1: https://github.com/frubem/MSX-TDC-600
 5) Floppy Disk Interface for JFF MSX 1 - ver 2: https://github.com/frubem/fdd-cdx2
